@@ -1,0 +1,9 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Node.js & io.js - forks and friends?",
+    "packageVersion": "0.0.0",
+    "revealTheme": "moon",
+    "useSass": false,
+    "deployToGithubPages": false
+  }
+}

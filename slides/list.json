@@ -1,7 +1,7 @@
 [
-    "index.md", "disclaimer.md", "what.md", "serious.md", "catastrophe.md",
-    "why.md", "contributions.md", "contributions2.md", "andso.md", "joyent.md",
+    "index.md", "disclaimer.md", "what0.md", "what.md",
+    "why.md", "serious.md","contributions.md", "contributions2.md", "andso.md", "joyent.md",
     "joyent_efforts.md", "node_forward.md", "cool_stuff.md", "iojs.md", "diff1.md",
     "diff2.md", "but.md", "caniuseit.md", "meanwhile.md", "node012.md",
-    "foundation.md", "wait.md", "unification.md", "unification2.md", "thanks.ms"
+    "foundation.md", "wait.md", "unification.md", "unification2.md", "thanks.md"
 ]
